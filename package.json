@@ -1,0 +1,24 @@
+{
+  "name": "backlog-games-dark",
+  "version": "1.0.0",
+  "private": true,
+  "main": "expo/AppEntry",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^14.0.2",
+    "@react-native-async-storage/async-storage": "^2.1.0",
+    "expo": "^53.0.0",
+    "expo-linear-gradient": "^14.0.2",
+    "expo-status-bar": "^2.0.0",
+    "react": "19.0.0",
+    "react-native": "0.79.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.0"
+  }
+}
